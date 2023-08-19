@@ -1,9 +1,13 @@
 <h1 align="center">Hi , I'm Krishna</h1>
 <h3 align="center">An Aspiring Physicist and Arch Enthusiast</h3>
 
-- I’m currently working on symbolic programming using python for Cold atomic physics research **Photon Scattering by Trapped Atoms**
+- I’m currently working on my physics research in Cold Atom Physics using **python**
 
-- How to reach me **mskrishnawork@gmail.com**
+- I’m currently widening my knowledge by learning **data science and operating systems**
+
+- Here's my email : **mskrishnawork@gmail.com**
+
+- Btw, **I use Arch**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
