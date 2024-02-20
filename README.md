@@ -1,8 +1,6 @@
 <h1 align="center">Hi , I'm Krishna</h1>
 <h3 align="center">An Aspiring Physicist and Arch Enthusiast</h3>
 
-- I’m currently working on my physics research in Cold Atom Physics using **python**
-
 - I’m currently widening my knowledge by learning **data science and operating systems**
 
 - Here's my email : **mskrishnawork@gmail.com**
